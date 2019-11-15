@@ -28,3 +28,4 @@
 /home/simon/Documents/Software/BlockBuster-Dotnet-MVC/obj/Debug/netcoreapp2.2/BlockBuster-Dotnet-MVC.dll
 /home/simon/Documents/Software/BlockBuster-Dotnet-MVC/obj/Debug/netcoreapp2.2/BlockBuster-Dotnet-MVC.pdb
 /home/simon/Documents/Software/BlockBuster-Dotnet-MVC/obj/Debug/netcoreapp2.2/BlockBuster-Dotnet-MVC.csproj.CopyComplete
+/home/simon/Documents/Software/BlockBuster-Dotnet-MVC/obj/Debug/netcoreapp2.2/Razor/Views/HelloWorld/Index.g.cshtml.cs
